@@ -1,0 +1,6 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+login: semgenomsk
+password: f3ae75bc56
+driver_path: H:\GekBreans\Автоматизация тестирования веб-приложений на Python\Project_sem\homW\homW_sem2\chromedriver.exe
