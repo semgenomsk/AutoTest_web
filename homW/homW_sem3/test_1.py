@@ -24,3 +24,4 @@ def test_contact_us(browser):
     # testpage.enter_pass(testdata["pswd"])
     # testpage.click_login_button()
     testpage.click_contact_button()
+    assert testpage.get_alert_message() == "Form successfully submitted", "test contact us FAILED!"
